@@ -5,8 +5,8 @@ I am a highly skilled and motivated Data Analyst with over four years of experie
 
 Throughout my career, I have developed strong expertise in a variety of tools and techniques, including:
 
-**Excel:** Mastery in data analysis and transformation using Power Query, Power Pivot, advanced formulas (SUMIFS, COUNTIFS, VLOOKUP, INDEX-MATCH), and DAX for building dynamic data models.
-Power BI: Proficient in creating interactive and visually compelling dashboards that provide stakeholders with real-time insights and business intelligence.
+**Excel**: Mastery in data analysis and transformation using Power Query, Power Pivot, advanced formulas (SUMIFS, COUNTIFS, VLOOKUP, INDEX-MATCH), and DAX for building dynamic data models.
+**Power BI**: Proficient in creating interactive and visually compelling dashboards that provide stakeholders with real-time insights and business intelligence.
 SQL: Expertise in writing complex queries to extract, manipulate, and clean data from various databases, ensuring data accuracy and readiness for analysis.
 Python/R: Strong foundation in data analysis, cleaning, and visualization using Python and R. Experienced with libraries like Pandas, NumPy, Matplotlib, and ggplot2.
 In this portfolio, you’ll find a showcase of some of my recent projects, which highlight my skills in data analysis, visualization, and reporting. Each project demonstrates my ability to extract insights, streamline processes, and present results in a clear and actionable manner.
