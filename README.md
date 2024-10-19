@@ -14,7 +14,7 @@ Welcome to my portfolio!
 
 I am a highly skilled and motivated Data Analyst with over four years of experience working remotely. My passion for turning raw data into actionable insights has allowed me to help organizations make informed decisions and drive growth.
 
-## Skills
+## Tools
 Throughout my career, I have developed strong expertise in a variety of tools and techniques, including:
 
 ### MS Excel
