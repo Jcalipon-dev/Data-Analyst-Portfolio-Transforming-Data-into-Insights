@@ -30,6 +30,10 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 In this portfolio, you’ll find a showcase of some of my recent projects, which highlight my skills in data analysis, visualization, and reporting. Each project demonstrates my ability to extract insights, streamline processes, and present results in a clear and actionable manner.
 
 ## Contact
+You can contact me on these following channels:
+Email: jogleen.calipon@gmail.com
+LinkedIn: [MyLinkedIn](www.linkedin.com/in/jogleen-calipon-8949251b8)
+
 I enjoy solving challenging problems, and I am always eager to learn new tools and techniques to expand my capabilities. Whether working independently or as part of a collaborative team, I strive to deliver high-quality results and help organizations unlock the full potential of their data.
 
 Take a look at some of the projects I’ve worked on, and feel free to reach out if you'd like to collaborate or learn more about my work. I am always open to new opportunities and discussions.
