@@ -31,8 +31,8 @@ In this portfolio, you’ll find a showcase of some of my recent projects, which
 
 ## Contact
 You can contact me on these following channels:
-Email: jogleen.calipon@gmail.com
-LinkedIn: [MyLinkedIn](www.linkedin.com/in/jogleen-calipon-8949251b8)
+- Email: jogleen.calipon@gmail.com
+- LinkedIn: [MyLinkedIn](www.linkedin.com/in/jogleen-calipon-8949251b8)
 
 I enjoy solving challenging problems, and I am always eager to learn new tools and techniques to expand my capabilities. Whether working independently or as part of a collaborative team, I strive to deliver high-quality results and help organizations unlock the full potential of their data.
 
