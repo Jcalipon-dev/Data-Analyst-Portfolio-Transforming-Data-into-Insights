@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Skills](#skills)
+2. [Tools](#Tools)
     - [MS Excel](#ms-excel)
     - [Power BI](#power-bi)
     - [Python/R](#python-r)
