@@ -6,8 +6,8 @@
     - [MS Excel](#ms-excel)
     - [Power BI](#power-bi)
     - [Python/R](#python-r)
-3. [Projects](#projects)
 4. [Contact](#contact)
+5. [Projects](#projects)
 
 ## Introduction
 Welcome to my portfolio! 
@@ -26,14 +26,14 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 ### Python/R
 **Python/R**: Strong foundation in data analysis, cleaning, and visualization using Python and **R**. Experienced with libraries like Pandas, NumPy, Matplotlib, and **R** libraries such as dplyr, tidyr, ggplot2, and shiny.
 
-## Projects
-In this portfolio, you’ll find a showcase of some of my recent projects, which highlight my skills in data analysis, visualization, and reporting. Each project demonstrates my ability to extract insights, streamline processes, and present results in a clear and actionable manner.
-
 ## Contact
 You can contact me on these following channels:
 - Email: jogleen.calipon@gmail.com
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jogleen-calipon-8949251b8)
   <!-- Reminder: For inserting links it is required to add the (https://) in order for it to work -->
+
+## Projects
+In this portfolio, you’ll find a showcase of some of my recent projects, which highlight my skills in data analysis, visualization, and reporting. Each project demonstrates my ability to extract insights, streamline processes, and present results in a clear and actionable manner.
 
 I enjoy solving challenging problems, and I am always eager to learn new tools and techniques to expand my capabilities. Whether working independently or as part of a collaborative team, I strive to deliver high-quality results and help organizations unlock the full potential of their data.
 
