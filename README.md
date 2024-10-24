@@ -43,3 +43,5 @@ Take a look at some of the projects I’ve worked on, and feel free to reach out
 ## Certificates
 - [Business Analytics Concepts and Frameworks](https://drive.google.com/file/d/1d9S25_x57ASta6WbJkUojxT4mxIrZntx/view)
 - [Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1i5Q7k6TFj2cV1n7VwFi_HdUxcJAGgkc1/view?usp=sharing)
+- [Data Analysis with Python](https://coursera.org/share/488a4948e1738098d117c56de867adcb)
+- [Introduction to Data Analysis using Microsoft Excel](https://coursera.org/share/05e7941ffdf4b66f985ac3feac5b2d49)
