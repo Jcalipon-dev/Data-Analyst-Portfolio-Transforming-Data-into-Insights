@@ -41,5 +41,5 @@ I enjoy solving challenging problems, and I am always eager to learn new tools a
 Take a look at some of the projects I’ve worked on, and feel free to reach out if you'd like to collaborate or learn more about my work. I am always open to new opportunities and discussions.
 
 ## Certificates
-[Business Analytics Concepts and Frameworks](https://drive.google.com/file/d/1d9S25_x57ASta6WbJkUojxT4mxIrZntx/view)
-[Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1i5Q7k6TFj2cV1n7VwFi_HdUxcJAGgkc1/view?usp=sharing)
+- [Business Analytics Concepts and Frameworks](https://drive.google.com/file/d/1d9S25_x57ASta6WbJkUojxT4mxIrZntx/view)
+- [Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1i5Q7k6TFj2cV1n7VwFi_HdUxcJAGgkc1/view?usp=sharing)
