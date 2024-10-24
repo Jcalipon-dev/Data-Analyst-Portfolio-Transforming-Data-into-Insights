@@ -8,6 +8,7 @@
     - [Python/R](#python-r)
 4. [Contact](#contact)
 5. [Projects](#projects)
+6. [Certificates](#certificates)
 
 ## Introduction
 Welcome to my portfolio! 
@@ -38,3 +39,5 @@ In this portfolio, you’ll find a showcase of some of my recent projects, which
 I enjoy solving challenging problems, and I am always eager to learn new tools and techniques to expand my capabilities. Whether working independently or as part of a collaborative team, I strive to deliver high-quality results and help organizations unlock the full potential of their data.
 
 Take a look at some of the projects I’ve worked on, and feel free to reach out if you'd like to collaborate or learn more about my work. I am always open to new opportunities and discussions.
+
+## Certificates
