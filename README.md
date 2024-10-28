@@ -6,7 +6,7 @@
     - [MS Excel](#ms-excel)
     - [Power BI](#power-bi)
     - [Python/R](#python-r)
-- [Contact](#contact)
+- [Contacts](#contacts)
 - [Projects](#projects)
 - [Certificates](#certificates)
 
@@ -27,7 +27,7 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 ### Python/R
 **Python/R**: Strong foundation in data analysis, cleaning, and visualization using Python and **R**. Experienced with libraries like Pandas, NumPy, Matplotlib, and **R** libraries such as dplyr, tidyr, ggplot2, and shiny.
 
-## Contact
+## Contacts
 You can contact me on these following channels:
 - Email: jogleen.calipon@gmail.com
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jogleen-calipon-8949251b8)
