@@ -1,14 +1,14 @@
 # Data Analyst Portfolio
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Tools](#Tools)
+- [Introduction](#introduction)
+- [Tools](#Tools)
     - [MS Excel](#ms-excel)
     - [Power BI](#power-bi)
     - [Python/R](#python-r)
-4. [Contact](#contact)
-5. [Projects](#projects)
-6. [Certificates](#certificates)
+- [Contact](#contact)
+- [Projects](#projects)
+- [Certificates](#certificates)
 
 ## Introduction
 Welcome to my portfolio! 
