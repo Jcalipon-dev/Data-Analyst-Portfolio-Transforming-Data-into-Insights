@@ -36,7 +36,7 @@ You can contact me on these following channels:
 ## Case Studies
 In this portfolio, you’ll find a showcase of some of my recent projects, which highlight my skills in data analysis, visualization, and reporting. Each project demonstrates my ability to extract insights, streamline processes, and present results in a clear and actionable manner.
 
-[Case Study No.1](Case Study No.1.md)
+[Case Study No.1](CaseStudyNo.1.md)
 
 I enjoy solving challenging problems, and I am always eager to learn new tools and techniques to expand my capabilities. Whether working independently or as part of a collaborative team, I strive to deliver high-quality results and help organizations unlock the full potential of their data.
 
