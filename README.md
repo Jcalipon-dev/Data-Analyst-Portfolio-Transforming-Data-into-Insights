@@ -7,7 +7,7 @@
     - [Power BI](#power-bi)
     - [Python/R](#python-r)
 - [Contacts](#contacts)
-- [Case Studies](#casestudies)
+- [Case Studies](#case-studies)
 - [Certificates](#certificates)
 
 ## Introduction
