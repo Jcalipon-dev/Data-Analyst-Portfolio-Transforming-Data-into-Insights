@@ -4,8 +4,7 @@
 
 ## Introduction
 
-Cyclistic is a fictional company that launched a successful bike-sharing in 2016. Since then, the program has grown into a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago.
-In this case study I will demonstrate the entire process of data analysis using Google principles which are: 
+In this case study, I will demonstrate the entire process of data analysis using Google Data Analytics principles, which include the following: 
 **Ask, Prepare, Process,Analyze, Share,** and **Act**
 
 ## Scenario
@@ -25,6 +24,18 @@ likely to ride for leisure, but about 30% use the bikes to commute to work each 
 the development of campaigns and initiatives to promote the bike-share program.
 These may include email, social media, and other channels.
 
+● **Cyclistic marketing analytics team:** A team of data analysts who are responsible for
+collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
+You joined this team six months ago and have been busy learning about Cyclistic’s
+mission and business goals—as well as how you, as a junior data analyst, can help
+Cyclistic achieve them.
 
+● **Cyclistic executive team:** The notoriously detail-oriented executive team will decide
+whether to approve the recommended marketing program.
+
+## About the company
+
+Cyclistic is a fictional company that launched a successful bike-sharing in 2016. Since then, the program has grown into a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago.
+The bikes can be unlocked from one station and returned to any other station in the system anytime. 
 
 
