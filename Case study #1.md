@@ -1,6 +1,6 @@
 # Cyclistic bike-share analysis case study
 
-### My Google Data Analytics Certificate Capstone Project
+#### My Google Data Analytics Certificate Capstone Project
 
 ## Introduction
 
