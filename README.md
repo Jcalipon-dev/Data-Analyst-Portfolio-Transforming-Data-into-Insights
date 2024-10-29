@@ -7,7 +7,7 @@
     - [Power BI](#power-bi)
     - [Python/R](#python-r)
 - [Contacts](#contacts)
-- [Projects](#projects)
+- [Case Studies](#case studies)
 - [Certificates](#certificates)
 
 ## Introduction
@@ -33,7 +33,7 @@ You can contact me on these following channels:
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jogleen-calipon-8949251b8)
   <!-- Reminder: For inserting links it is required to add the (https://) in order for it to work -->
 
-## Projects
+## Case Studies
 In this portfolio, you’ll find a showcase of some of my recent projects, which highlight my skills in data analysis, visualization, and reporting. Each project demonstrates my ability to extract insights, streamline processes, and present results in a clear and actionable manner.
 
 I enjoy solving challenging problems, and I am always eager to learn new tools and techniques to expand my capabilities. Whether working independently or as part of a collaborative team, I strive to deliver high-quality results and help organizations unlock the full potential of their data.
