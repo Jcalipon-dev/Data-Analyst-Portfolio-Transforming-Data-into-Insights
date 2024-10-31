@@ -9,6 +9,7 @@
 - [Contacts](#contacts)
 - [Case Studies](#case-studies)
 - [Certificates](#certificates)
+- [Badges](#badges)
 
 ## Introduction
 Welcome to my portfolio! 
@@ -49,3 +50,6 @@ Take a look at some of the projects I’ve worked on, and feel free to reach out
 - [Introduction to Data Analysis using Microsoft Excel](https://coursera.org/share/05e7941ffdf4b66f985ac3feac5b2d49)
 - [Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1i5Q7k6TFj2cV1n7VwFi_HdUxcJAGgkc1/view?usp=sharing)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XTCMU7I683J6)
+
+## Badges
+- [Credly](https://www.credly.com/users/jogleen-calipon)
