@@ -12,6 +12,12 @@ In this case study, I will demonstrate the entire process of data analysis using
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. 
 From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
+## Setting
+
+Region: Chicago, USA  
+Period: May 2023 - May 2024  
+Seasons Covered: Fall, Winter, Spring & Summer
+
 ## Characters and teams
 ● **Cyclistic:** A bike-share program that features more than 5,800 bicycles and 600
 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand
@@ -20,7 +26,7 @@ and riders who can’t use a standard two-wheeled bike. The majority of riders o
 traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more
 likely to ride for leisure, but about 30% use the bikes to commute to work each day.
 
-● **Lily Moreno:** The director of marketing and your manager. Moreno is responsible for
+● **Lily Moreno:** The director of marketing and the manager. Moreno is responsible for
 the development of campaigns and initiatives to promote the bike-share program.
 These may include email, social media, and other channels.
 
@@ -30,8 +36,8 @@ You joined this team six months ago and have been busy learning about Cyclistic�
 mission and business goals—as well as how you, as a junior data analyst, can help
 Cyclistic achieve them.
 
-● **Cyclistic executive team:** The notoriously detail-oriented executive team will decide
-whether to approve the recommended marketing program.
+● **Cyclistic executive team:** Whether to approve the suggested marketing program will be up to the executive team, 
+who are known for their meticulous attention to detail.
 
 ## About the company
 
@@ -45,6 +51,14 @@ are already aware of the Cyclistic program and have chosen Cyclistic for their m
 Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to better understand how annual members and casual riders differ, why casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends.
 
 # Ask
+
+The data analysis cycle begins with the ask phase, which entails establishing the project's scope, the problem to be solved, and the expectations of stakeholders by posing **SMART** (Specific, Measurable, Action-oriented, Relevant, Time-bound) questions.
+
+The challenge to be addressed for this project is creating marketing plans that would turn casual riders into yearly members. My analysis will provide the marketing team with insights to help them develop a fresh and effective plan to turn casual riders into yearly members. It will also help persuade the Cyclistic management team to embrace this new approach.  
+
+Determining the differences in Cyclistic usage between annual members and casual riders will be the key business task. Lily Moreno, the marketing director, and the Cyclistic executive team are the project's stakeholders, and I will be presenting the findings to them.
+
+# Prepare
 
 
 
