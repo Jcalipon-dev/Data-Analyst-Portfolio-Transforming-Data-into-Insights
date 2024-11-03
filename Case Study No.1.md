@@ -69,6 +69,6 @@ This includes all the procedures used to clean the data, ensure that it is corre
 
 Each CSV file was imported into a separate Excel worksheet in order to process the data for this project. Data processing was divided into four main tasks:
 
-**Checking for data integrity:**this involved checking the data completeness, making sure the datasets included accurate information, and making sure that the information was consistent across the datasets used.
+**Checking for data integrity**:this involved checking the data completeness, making sure the datasets included accurate information, and making sure that the information was consistent across the datasets used.
 
 
