@@ -20,8 +20,8 @@ Seasons Covered: Fall, Winter, Spring & Summer
 
 ## Tools
 
-Microsoft Excel
-R
+- Microsoft Excel
+- R
 
 ## Characters and teams
 ● **Cyclistic:** A bike-share program that features more than 5,800 bicycles and 600
