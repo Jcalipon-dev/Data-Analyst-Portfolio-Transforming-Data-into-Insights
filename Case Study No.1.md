@@ -60,5 +60,9 @@ Determining the differences in Cyclistic usage between annual members and casual
 
 # Prepare
 
+This includes locating the data source that will be used for the analysis, making sure that the data source is trustworthy, unique, thorough, up-to-date, and referenced, modeling the data, making sure that the data is free from bias in any way during collection, and adhering to all data ethics guidelines when working with the data.
 
+This project will leverage historical cyclic data from the past 12 months that is kept in an [online repository](https://divvy-tripdata.s3.amazonaws.com/index.html) (provided by Motivate International Inc. under this license). Twelve CSV files, each with ride details for each month from May 2023 to May 2024, contain the data.
+
+The data being first-party ensures that it is reliable and original as it has been collected and stored by Cyclistic itself. Only historical data from the previous 12 months is used to ensure that the data reflects the current trend in Cyclistic rides and a glance at the data shows it contains comprehensive information which provides key metrics to compare rides by annual members and casual riders and will be sufficient to complete the key business task.
 
