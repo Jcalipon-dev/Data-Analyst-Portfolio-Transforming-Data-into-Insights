@@ -32,9 +32,6 @@ These may include email, social media, and other channels.
 
 ● **Cyclistic marketing analytics team:** A team of data analysts who are responsible for
 collecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy.
-You joined this team six months ago and have been busy learning about Cyclistic’s
-mission and business goals—as well as how you, as a junior data analyst, can help
-Cyclistic achieve them.
 
 ● **Cyclistic executive team:** Whether to approve the suggested marketing program will be up to the executive team, 
 who are known for their meticulous attention to detail.
@@ -64,5 +61,14 @@ This includes locating the data source that will be used for the analysis, makin
 
 This project will leverage historical cyclic data from the past 12 months that is kept in an [online repository](https://divvy-tripdata.s3.amazonaws.com/index.html) (provided by Motivate International Inc. under this license). Twelve CSV files, each with ride details for each month from May 2023 to May 2024, contain the data.
 
-The data being first-party ensures that it is reliable and original as it has been collected and stored by Cyclistic itself. Only historical data from the previous 12 months is used to ensure that the data reflects the current trend in Cyclistic rides and a glance at the data shows it contains comprehensive information which provides key metrics to compare rides by annual members and casual riders and will be sufficient to complete the key business task.
+Since Cyclistic gathered and kept the data, its first-party status guarantees its authenticity and dependability. A cursory examination of the data reveals that it contains comprehensive information that provides key metrics to compare rides by annual members and casual riders and will be sufficient to complete the key business task. Only historical data from the previous 12 months is used to ensure that the data reflects the current trend in cyclic rides.
+
+# Process
+
+This includes all the procedures used to clean the data, ensure that it is correct, complete, consistent, and reliable before analysis, align the data with the business goal, and perform data verification.
+
+Each CSV file was imported into a separate Excel worksheet in order to process the data for this project. Data processing was divided into four main tasks:
+
+**Checking for data integrity:**this involved checking the data completeness, making sure the datasets included accurate information, and making sure that the information was consistent across the datasets used.
+
 
