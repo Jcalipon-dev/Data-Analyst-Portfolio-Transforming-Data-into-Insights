@@ -1,7 +1,5 @@
 # A case study on cyclic bike sharing analysis
 
-#### My Capstone Project for the Google Data Analytics Certificate
-
 ## Introduction
 
 In this case study, I will demonstrate the entire process of data analysis using Google Data Analytics principles, which include the following: 
