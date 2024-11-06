@@ -86,4 +86,13 @@ Each CSV file was imported into a separate Excel worksheet in order to process t
 
 These new variables will enhance my analysis and provide insights into user behavior.
 
+# Analyze
+
+I started my analysis by exploring each dataset, utilizing Excel functions and pivot tables to identify trends for each month. I documented the average and maximum ride lengths, and I compared the frequency and duration of rides between casual riders and annual members. Additionally, I examined their preferred starting and ending locations, as well as their preferred bike types.
+
+# May 2023
+
+
+
+
 
