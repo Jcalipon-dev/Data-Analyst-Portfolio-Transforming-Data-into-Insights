@@ -72,10 +72,18 @@ This includes all the procedures used to clean the data, ensure that it is corre
 
 Each CSV file was imported into a separate Excel worksheet in order to process the data for this project. Data processing was divided into four main tasks:
 
-**Checking for data integrity**: this involved checking the data completeness, making sure the datasets included accurate information, and making sure that the information was consistent across the datasets used.
+**Normalization of dataset**: this involved checking the data completeness, making sure the datasets included accurate information, and making sure that the information was consistent across the datasets used.
 
 **Cleaning the dataset**: this involved checking for any error, typos, duplicate entries, blank cells, and ensuring consistent data formats across each column.
 
-**Aligning the dataset with the business objective**: 
+**Aligning the dataset with the business objective**: Aligning the dataset with the business task involves manipulating the data to provide the best answers for the task at hand. To achieve this, four new variables were created:
+
+1. **ride_length**: This variable is calculated by subtracting the start time of each ride from its end time.
+2. **day_of_week**: This variable indicates the day of the week on which each ride started.
+3. **day_of_week_desc**: This variable maps each day of the week to a corresponding number, where 1 represents Sunday and 7 represents Saturday.
+4. **route**: This variable is formed by concatenating the start station name with the end station name, allowing us to identify the most frequent route taken by users.
+5. **time_of_day**: This variable helps identify which time of day experiences the highest number of rides by users.
+
+These new variables will enhance my analysis and provide insights into user behavior.
 
 
