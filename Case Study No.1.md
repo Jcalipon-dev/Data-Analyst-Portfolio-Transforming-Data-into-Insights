@@ -92,12 +92,16 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 
 # May 2023
 
-1. Out of 604,827 rides, 602 lasted for more than 24 hrs
-2. The average ride length for this month is 19 min.
-3. The longest ride length is 6 hours and 50 min.
-4. The most rides in a week is Tuesday by all riders (casual and member).
-5. For casual riders Sunday has the most number of rides, followed by Saturday and Tuesday which is at 42,124(Sunday), 40,758(Saturday) and 33,382(Tuesday). While member riders, Tuesday has the most rides followed by Wednesday and Thursday at 67,680 (Wednesday), 67,517 (Wednesday) and 55,686 (Thursday).
-6. Out of 604,827 rides, casual riders took 234,181 rides while member has 370,646 rides
+1. Out of a total of 604,827 rides, 602 rides lasted more than 24 hours.  
+2. The average ride length for this month is 19 minutes.  
+3. The longest ride lasted for 23 hours and 58 minutes, excluding rides that lasted more than 24 hours.  
+4. Tuesday has the highest number of rides for all riders, with a total of 101,062 (including both casual and member riders).  
+5. Among casual riders, Sunday has the most rides, followed by Saturday and Tuesday, with 42,124 rides on Sunday, 40,758 on Saturday, and 33,382 on Tuesday. For member riders, Tuesday has the most rides, followed by Wednesday and Thursday, with 67,680 rides on Wednesday, 67,517 on Tuesday, and 55,686 on Thursday.  
+6. Out of the 604,827 rides, casual riders accounted for 234,181 rides, while member riders accounted for 370,646 rides.  
+7. The most frequently taken route by riders is from Streeter Dr & Grand Ave to Streeter Dr & Grand Ave, with 1,159 rides taken by casual riders and 179 by member riders.  
+8. Afternoon is the time with the most rides taken by casual riders, totaling 89,445 rides, while member riders took 120,472 rides in the afternoon.  
+9. Both casual and member riders used electric bikes, with casual riders accounting for 46,785 rides and member riders for 62,891 rides.
+
 
 
 
