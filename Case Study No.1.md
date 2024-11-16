@@ -92,6 +92,12 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 
 # May 2023
 
+1. Out of 604,827 rides, 602 lasted for more than 24 hrs
+2. The average ride length for this month is 19 min.
+3. The longest ride length is 6 hours and 50 min.
+4. The most rides in a week is Tuesday by all riders (casual and member).
+5. For casual riders Sunday has the most number of rides, followed by Saturday and Tuesday which is at 42,124(Sunday), 40,758(Saturday) and 33,382(Tuesday). While member riders, Tuesday has the most rides followed by Wednesday and Thursday at 67,680 (Wednesday), 67,517 (Wednesday) and 55,686 (Thursday).
+6. Out of 604,827 rides, casual riders took 234,181 rides while member has 370,646 rides
 
 
 
