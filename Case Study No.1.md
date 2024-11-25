@@ -102,7 +102,12 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 8. Afternoon is the time with the most rides taken by casual riders, totaling 89,445 rides, while member riders took 120,472 rides in the afternoon.  
 9. Both casual and member riders used electric bikes, with casual riders accounting for 46,785 rides and member riders for 62,891 rides.
 
+# June 2023
 
+1. Out of a total of 719,618, 779 rides lasted more than 24 hours
+2. The average ride length for this month is 19 minutes.
+3. The longest ride lasted for 23 hours and 59 minutes, excluding rides that lasted more than 24 hours.
+4. Saturday has the highest number of rides for all riders, 
 
 
 
