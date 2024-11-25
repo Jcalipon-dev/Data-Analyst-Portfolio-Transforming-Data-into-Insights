@@ -100,7 +100,7 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 6. Out of the 604,827 rides, casual riders accounted for 234,181 rides, while member riders accounted for 370,646 rides.  
 7. The most frequently taken route by riders is from Streeter Streeter Dr & Grand Ave->Streeter Dr & Grand Ave, with 1,159 rides taken by casual riders and 179 by member riders.  
 8. Afternoon is the time with the most rides taken by casual riders, totaling 89,445 rides, while member riders took 120,472 rides in the afternoon.  
-9. Both casual and member riders used electric bikes the most, with casual riders accounting for 46,785 rides and member riders for 62,891 rides.
+9. Casual and member riders primarily used electric bikes, with casual riders accounting for 46,785 rides and member riders for 62,891 rides, among the options of classic, docked, and electric bikes.
 
 # June 2023
 
@@ -112,7 +112,7 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 6. Out of the 719,618 rides, casual riders accounted for 301,230 rides, while member riders accounted for 418,388 rides.
 7. The most frequently taken route by riders is from Streeter Dr & Grand Ave->Streeter Dr & Grand Ave, with 1,270 rides taken by casual riders and 232 by member riders.
 8. Afternoon is the time with the most rides taken by casual riders, totaling 106,973 rides, while member riders took 128,056 rides in the afternoon.
-9. Both casual and member riders used electric bikes the most, with casual riders accounting for 58,335 rides and member riders for 68,462 rides.
+9. Casual and member riders primarily used electric bikes, with casual riders accounting for 58,335 rides and member riders for 68,462 rides, among the options of classic, docked, and electric bikes.
 
 # July 2023
 
