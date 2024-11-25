@@ -92,7 +92,7 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 
 # May 2023
 
-1. Out of a total of 604,827 rides. 602 rides lasted more than 24 hours.  
+1. Out of a total of 604,827 rides. There are 602 rides lasted more than 24 hours.  
 2. The average ride length for this month is 19 minutes.  
 3. The longest ride lasted for 23 hours and 58 minutes, excluding rides that lasted more than 24 hours.  
 4. Tuesday has the highest number of rides for all riders, with a total of 101,062.  
@@ -104,7 +104,7 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 
 # June 2023
 
-1. Out of a total of 719,618. 779 rides lasted more than 24 hours
+1. Out of a total of 719,618. There are 779 rides lasted more than 24 hours
 2. The average ride length for this month is 19 minutes.
 3. The longest ride lasted for 23 hours and 59 minutes, excluding rides that lasted more than 24 hours.
 4. Friday has the highest number of rides for all riders, with a total of 131,158.
