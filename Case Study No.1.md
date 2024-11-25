@@ -95,19 +95,26 @@ I started my analysis by exploring each dataset, utilizing Excel functions and p
 1. Out of a total of 604,827 rides, 602 rides lasted more than 24 hours.  
 2. The average ride length for this month is 19 minutes.  
 3. The longest ride lasted for 23 hours and 58 minutes, excluding rides that lasted more than 24 hours.  
-4. Tuesday has the highest number of rides for all riders, with a total of 101,062 (including both casual and member riders).  
+4. Tuesday has the highest number of rides for all riders, with a total of 101,062.  
 5. Among casual riders, Sunday has the most rides, followed by Saturday and Tuesday, with 42,124 rides on Sunday, 40,758 on Saturday, and 33,382 on Tuesday. For member riders, Tuesday has the most rides, followed by Wednesday and Thursday, with 67,680 rides on Wednesday, 67,517 on Tuesday, and 55,686 on Thursday.  
 6. Out of the 604,827 rides, casual riders accounted for 234,181 rides, while member riders accounted for 370,646 rides.  
-7. The most frequently taken route by riders is from Streeter Dr & Grand Ave to Streeter Dr & Grand Ave, with 1,159 rides taken by casual riders and 179 by member riders.  
+7. The most frequently taken route by riders is from Streeter Streeter Dr & Grand Ave->Streeter Dr & Grand Ave, with 1,159 rides taken by casual riders and 179 by member riders.  
 8. Afternoon is the time with the most rides taken by casual riders, totaling 89,445 rides, while member riders took 120,472 rides in the afternoon.  
-9. Both casual and member riders used electric bikes, with casual riders accounting for 46,785 rides and member riders for 62,891 rides.
+9. Both casual and member riders used electric bikes the most, with casual riders accounting for 46,785 rides and member riders for 62,891 rides.
 
 # June 2023
 
 1. Out of a total of 719,618, 779 rides lasted more than 24 hours
 2. The average ride length for this month is 19 minutes.
 3. The longest ride lasted for 23 hours and 59 minutes, excluding rides that lasted more than 24 hours.
-4. Saturday has the highest number of rides for all riders, 
+4. Friday has the highest number of rides for all riders, with a total of 131,158.
+5. Among casual riders, Saturday has the most rides, followed by Friday and Thursday, with 69,295 rides on Saturday, 56,422 on Friday, and 42,917 on Thursday. For member riders, Friday has the most rides, followed by Thursday and Wednesday, with 74,736 rides on Friday, 74,274 on Thursday, and 61,089 on Wednesday.
+6. Out of the 719,618 rides, casual riders accounted for 301,230 rides, while member riders accounted for 418,388 rides.
+7. The most frequently taken route by riders is from Streeter Dr & Grand Ave->Streeter Dr & Grand Ave, with 1,270 rides taken by casual riders and 232 by member riders.
+8. Afternoon is the time with the most rides taken by casual riders, totaling 106,973 rides, while member riders took 128,056 rides in the afternoon.
+9. Both casual and member riders used electric bikes the most, with casual riders accounting for 58,335 rides and member riders for 68,462 rides.
+
+# July 2023
 
 
 
