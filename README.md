@@ -49,7 +49,7 @@ Take a look at some of the projects I’ve worked on, and feel free to reach out
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/badb103bc184c8b4b1e2b13ae09327a0)
 - [Data Analysis with Python](https://coursera.org/share/488a4948e1738098d117c56de867adcb)
 - [Introduction to Data Analysis using Microsoft Excel](https://coursera.org/share/05e7941ffdf4b66f985ac3feac5b2d49)
-- [Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1i5Q7k6TFj2cV1n7VwFi_HdUxcJAGgkc1/view?usp=sharing)
+- [Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1fukF-yt1POJZ6cyldaBOQvYdJNre58M_/view?usp=sharing)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XTCMU7I683J6)
 - [Microsoft Power BI Analyst Professional Certificate](https://drive.google.com/file/d/1qa0Gnt5M7mjtncWfhlwIH328mKoFRvQO/view?usp=sharing)
 
