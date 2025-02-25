@@ -45,13 +45,13 @@ Take a look at some of the projects I’ve worked on, and feel free to reach out
 <!-- Reminder: For inserting file in the same repository. Copy the path and replace spaces with %20 -->
 
 ## Certificates
-- [Business Analytics Concepts and Frameworks](https://drive.google.com/file/d/1d9S25_x57ASta6WbJkUojxT4mxIrZntx/view)
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/badb103bc184c8b4b1e2b13ae09327a0)
 - [Data Analysis with Python](https://coursera.org/share/488a4948e1738098d117c56de867adcb)
 - [Introduction to Data Analysis using Microsoft Excel](https://coursera.org/share/05e7941ffdf4b66f985ac3feac5b2d49)
-- [Microsoft Excel Data Analyst Professional Certificate](https://drive.google.com/file/d/1fukF-yt1POJZ6cyldaBOQvYdJNre58M_/view?usp=sharing)
+- [Microsoft Excel Data Analyst Professional Certificate](https://1drv.ms/b/c/0ebab957c97f9505/ERilglL30xlNohhei3OEu9ABAUGw-MZZrlEeM6rfWNrPWQ?e=ehdxh5)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XTCMU7I683J6)
-- [Microsoft Power BI Analyst Professional Certificate](https://drive.google.com/file/d/1qa0Gnt5M7mjtncWfhlwIH328mKoFRvQO/view?usp=sharing)
+- [Microsoft Power BI Analyst Professional Certificate](https://1drv.ms/b/c/0ebab957c97f9505/ESjjTnx6H3dMvWY3wr1uf4kBhaJOvcvv90jKGQ37eWsoKA?e=4hHPtP)
+- [MySQL Database Workshop](https://1drv.ms/b/c/0ebab957c97f9505/EbOa9gWP5HxLt8oKLab9upUB_JR32daurPX4xO9ZUWFgpQ?e=ucm45v)
 
 ## Badges
 - [Credly](https://www.credly.com/users/jogleen-calipon)
