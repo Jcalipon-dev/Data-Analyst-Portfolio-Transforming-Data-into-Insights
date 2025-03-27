@@ -22,7 +22,7 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 ### Spreadsheet
 **MS Excel**:  Advanced proficiency in MS Excel, including ETL processes, Power Pivot, Power Query, Data Modeling, DAX, advanced lookup functions, and custom workarounds.
 
-### Power BI
+### Business Intelligence
 **Power BI**
 
 ### Databases & SQL
