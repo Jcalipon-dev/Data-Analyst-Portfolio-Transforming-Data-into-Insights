@@ -19,14 +19,17 @@ I am a highly skilled and motivated Data Analyst with over four years of experie
 ## Tools
 Throughout my career, I have developed strong expertise in a variety of tools and techniques, including:
 
-### MS Excel
-**MS Excel**: Advanced proficiency in data manipulation, analysis, and visualization using Excel. Skilled in utilizing formulas (e.g., VLOOKUP, INDEX-MATCH), PivotTables, Power Query, and Power Pivot to perform data modeling and ETL processes.
+### Spreadsheet
+**MS Excel**:  Advanced proficiency in MS Excel, including ETL processes, Power Pivot, Power Query, Data Modeling, DAX, advanced lookup functions, and custom workarounds.
 
 ### Power BI
-**Power BI**: Proficient in creating interactive and visually compelling dashboards that provide stakeholders with real-time insights and business intelligence.
+**Power BI**: 
+
+### Databases & SQL
+Possess foundational knowledge of MS Access, MS SQL Server Management Studio, BigQuery, and MySQL.
 
 ### Python/R
-**Python/R**: Strong foundation in data analysis, cleaning, and visualization using Python and **R**. Experienced with libraries like Pandas, NumPy, Matplotlib, and **R** libraries such as dplyr, tidyr, ggplot2, and shiny.
+**Python/R**: Possess foundational knowledge of Pandas, NumPy, SciPy, Seaborn, and Matplotlib for data manipulation, statistical analysis, and visualization.
 
 ## Contacts
 You can contact me on these following channels:
