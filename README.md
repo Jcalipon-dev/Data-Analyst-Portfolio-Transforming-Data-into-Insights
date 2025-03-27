@@ -23,10 +23,10 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 **MS Excel**:  Advanced proficiency in MS Excel, including ETL processes, Power Pivot, Power Query, Data Modeling, DAX, advanced lookup functions, and custom workarounds.
 
 ### Power BI
-**Power BI**: 
+**Power BI**
 
 ### Databases & SQL
-Possess foundational knowledge of MS Access, MS SQL Server Management Studio, BigQuery, and MySQL.
+Possess foundational knowledge of **MS Access**, **MS SQL Server Management Studio**, **BigQuery**, and **MySQL**.
 
 ### Python/R
 **Python/R**: Possess foundational knowledge of Pandas, NumPy, SciPy, Seaborn, and Matplotlib for data manipulation, statistical analysis, and visualization.
