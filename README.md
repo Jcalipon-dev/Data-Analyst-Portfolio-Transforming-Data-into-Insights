@@ -5,7 +5,9 @@
 - [Tools](#Tools)
     - [MS Excel](#ms-excel)
     - [Power BI](#power-bi)
+    - [Databases/SQL](#databases/sql)
     - [Python/R](#python-r)
+      
 - [Contacts](#contacts)
 - [Case Studies](#case-studies)
 - [Certificates](#certificates)
@@ -25,7 +27,7 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 ### Business Intelligence
 **Power BI**
 
-### Databases & SQL
+### Databases/SQL
 Possess foundational knowledge of **MS Access**, **MS SQL Server Management Studio**, **BigQuery**, and **MySQL**.
 
 ### Python/R
