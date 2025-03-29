@@ -27,10 +27,10 @@ Throughout my career, I have developed strong expertise in a variety of tools an
 ### Business Intelligence
 **Power BI**
 
-### Databases/SQL
+### Databases and SQL
 Possess foundational knowledge of **MS Access**, **MS SQL Server Management Studio**, **BigQuery**, and **MySQL**.
 
-### Python/R
+### Python and R
 **Python/R**: Possess foundational knowledge of Pandas, NumPy, SciPy, Seaborn, and Matplotlib for data manipulation, statistical analysis, and visualization.
 
 ## Contacts
