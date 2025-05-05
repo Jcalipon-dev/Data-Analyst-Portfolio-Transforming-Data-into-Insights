@@ -51,7 +51,7 @@ Take a look at some of the projects I’ve worked on, and feel free to reach out
 
 ## Certificates
 ### Data Science
-- [Data Science Specialist Course](2023)](https://1drv.ms/b/c/0ebab957c97f9505/EQ1rhC-cDH1Jsj39njZPkm4BKSiRmjC5CED44EMyde42Pg?e=Kj1xlx)
+- [Data Science Specialist Course](https://1drv.ms/b/c/0ebab957c97f9505/EQ1rhC-cDH1Jsj39njZPkm4BKSiRmjC5CED44EMyde42Pg?e=Kj1xlx)
 - [Data Analysis with Python](https://coursera.org/share/488a4948e1738098d117c56de867adcb)
 - [Databases and SQL for Data Science with Python](https://coursera.org/share/badb103bc184c8b4b1e2b13ae09327a0)
 - [Data Analysis with R Programming](https://coursera.org/share/416cdfefa9ea5d36fd7c32a953a71ce0)
